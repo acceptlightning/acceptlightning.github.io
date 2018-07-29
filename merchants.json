@@ -1,0 +1,216 @@
+[
+  {
+    "name": "BitRefill",
+    "service": "Mobile TopUp",
+    "location": {
+      "url": "https://en.bitrefill.com"
+    }
+  },
+  {
+    "name": "TorGuard",
+    "service": "VPN",
+    "location": {
+      "url": "https://torguard.net"
+    }
+  },
+  {
+    "name": "Blockstream Store",
+    "service": "Clothing",
+    "location": {
+      "url": "https://store.blockstream.com"
+    }
+  },
+  {
+    "name": "BitBargain.co.uk",
+    "service": "Exchange",
+    "location": {
+      "url": "http://blog.bitbargain.com/post/170336554817/lightning-wallet"
+    }
+  },
+  {
+    "name": "Y'alls",
+    "service": "Online Articles",
+    "location": {
+      "url": "https://mainnet.yalls.org"
+    }
+  },
+  {
+    "name": "Heartland Cottons",
+    "service": "Quilts",
+    "location": {
+      "url": "http://www.heartlandcotton.com",
+      "city": "Dewitt",
+      "country": "USA",
+      "latlong": {
+        "lat": 41.82500110000001,
+        "lng": -90.5398778
+      }
+    }
+  },
+  {
+    "name": "Classic Crust Pizza",
+    "service": "Pizza",
+    "location": {
+      "url": "http://classiccrustpizza.com",
+      "city": "Phoenix",
+      "country": "USA",
+      "latlong": {
+        "lat": 33.5974227,
+        "lng": -112.03514180000002
+      }
+    }
+  },
+  {
+    "name": "Moon Banking",
+    "service": "API",
+    "location": {
+      "url": "https://moonbanking.com/api"
+    }
+  },
+  {
+    "name": "CoinMall",
+    "service": "Digital Products",
+    "location": {
+      "url": "https://www.coinmall.com"
+    }
+  },
+  {
+    "name": "Hodl Monkey",
+    "service": "Clothing",
+    "location": {
+      "url": "https://hodlmonkey.com/"
+    }
+  },
+  {
+    "name": "Coincards.ca",
+    "service": "Gift Cards",
+    "location": {
+      "url": "https://coincards.ca"
+    }
+  },
+  {
+    "name": "Billfodl",
+    "service": "Physical Wallet",
+    "location": {
+      "url": "https://billfodl.com"
+    }
+  },
+  {
+    "name": "BtcDuke",
+    "service": "Exchange",
+    "location": {
+      "url": "https://btcduke.com"
+    }
+  },
+  {
+    "name": "Lightning Shop",
+    "service": "Clothing & Digital Products",
+    "location": {
+      "url": "https://lightningshop.eu"
+    }
+  },
+  {
+    "name": "Ludvig Manukyan",
+    "service": "Art",
+    "location": {
+      "url": "https://ludvigart.com"
+    }
+  },
+  {
+    "name": "Sog Bazaar",
+    "service": "Cards",
+    "location": {
+      "url": "https://sogbazaar.com"
+    }
+  },
+  {
+    "name": "Living Room of Satoshi",
+    "service": "Pay Australian Bills",
+    "location": {
+      "url": "https://www.livingroomofsatoshi.com"
+    }
+  },
+  {
+    "name": "Revealer",
+    "service": "Backup solutions",
+    "location": {
+      "url": "https://revealer.cc"
+    }
+  },
+  {
+    "name": "Beads Bight.nl",
+    "service": "Jewelry",
+    "location": {
+      "url": "http://beads.bight.nl"
+    }
+  },
+  {
+    "name": "Trustless Apparel",
+    "service": "Clothing",
+    "location": {
+      "url": "https://trustlessapparel.com"
+    }
+  },
+  {
+    "name": "C+C Remeras",
+    "service": "Clothing",
+    "location": {
+      "url": "https://cmascremeras.store"
+    }
+  },
+  {
+    "name": "Wearsmyliberty",
+    "service": "Clothing",
+    "location": {
+      "url": "https://wearsmyliberty.com"
+    }
+  },
+  {
+    "name": "The Botanist Kitchen and Bar",
+    "service": "Cafe at Brisbane Airport",
+    "location": {
+      "url": "https://bne.com.au/passenger/shop-dine-explore/dine/botanist-kitchen-and-bar",
+      "city": "Brisbane",
+      "country": "Australia",
+      "latlong": {
+        "lat": -27.3942144,
+        "lng": 153.12183030000006
+      }
+    }
+  },
+  {
+    "name": "Peername",
+    "service": "Blockchain-Based Domain Names Registrar",
+    "location": {
+      "url": "https://peername.com"
+    }
+  },
+  {
+    "name": "⚡ justice will be served ⚡ shirt shop",
+    "service": "Clothing",
+    "location": {
+      "url": "https://bitcoin-lightning.de"
+    }
+  },
+  {
+    "name": "Let's Talk Bitcoin",
+    "service": "Tip",
+    "location": {
+      "url": "https://tipltb.tokenly.com"
+    }
+  },
+  {
+    "name": "Joltfun.com",
+    "service": "Game codes for Steam/Origin/Uplay/Battle.net/Xbox Live",
+    "location": {
+      "url": "https://joltfun.com"
+    }
+  },
+  {
+    "name": "Tayga8",
+    "service": "Supplements",
+    "location": {
+      "url": "https://t8dream.teamhtt"
+    }
+  }
+]
