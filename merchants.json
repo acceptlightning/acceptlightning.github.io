@@ -219,5 +219,32 @@
     "location": {
       "url": "https://lndlife.com"
     }
+  },
+  {
+    "name": "Image Unblurrer",
+    "service": "Unblur images using Lightning Network",
+    "location": {
+      "url": "https://www.mocacinno.com/lightning"
+    }
+  },
+  {
+    "name": "trackinco.de",
+    "service": "Web Analytics",
+    "location": {
+      "url": "https://trackingco.de"
+    }
+  },
+  {
+    "name": "Hospedaria ABP",
+    "service": "Student residence",
+    "location": {
+      "url": "https://hospedariaabp.com.br",
+      "city": "Belo Horizonte",
+      "country": "Brazil",
+      "latlong": {
+        "lat": -19.9205135,
+        "lng": -43.94202130000002
+      }
+    }
   }
 ]
