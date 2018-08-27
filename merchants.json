@@ -246,5 +246,19 @@
         "lng": -43.94202130000002
       }
     }
+  },
+  {
+    "name": "quinsolo",
+    "service": "Cryptocurrency Themed Merchandise",
+    "location": {
+      "url": "https://quinsolo.com"
+    }
+  },
+  {
+    "name": "MicroBet",
+    "service": "Sports predictions/betting game",
+    "location": {
+      "url": "https://microbet.fun"
+    }
   }
 ]
