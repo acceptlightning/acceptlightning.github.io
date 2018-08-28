@@ -260,5 +260,12 @@
     "location": {
       "url": "https://microbet.fun"
     }
+  },
+  {
+    "name": "Lightning Roulette",
+    "service": "Provably fair LN enabled roulette game",
+    "location": {
+      "url": "https://lightning-roulette.com"
+    }
   }
 ]
