@@ -267,5 +267,19 @@
     "location": {
       "url": "https://lightning-roulette.com"
     }
+  },
+  {
+    "name": "ProtectingCoin",
+    "service": "Cryptocurrency Hardware and accessories",
+    "location": {
+      "url": "https://protectingcoin.com"
+    }
+  },
+  {
+    "name": "lnsms",
+    "service": "Send text messages worldwide and pay with Lightning",
+    "location": {
+      "url": "https://lnsms.world"
+    }
   }
 ]
