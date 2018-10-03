@@ -281,5 +281,12 @@
     "location": {
       "url": "https://lnsms.world"
     }
+  },
+  {
+    "name": "BitcoinPaybill.com",
+    "service": "Prepaid mobile phone topups and refills",
+    "location": {
+      "url": "https://www.bitcoinpaybill.com"
+    }
   }
 ]
