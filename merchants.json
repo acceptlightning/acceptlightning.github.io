@@ -288,5 +288,24 @@
     "location": {
       "url": "https://www.bitcoinpaybill.com"
     }
+  },
+  {
+    "name": "Satoshi's Place",
+    "service": "Online collaborative artboard powered by lightning. 1 pixel = 1 satoshi.",
+    "location": {
+      "url": "https://satoshis.place"
+    }
+  },
+  {
+    "name": "Mani Al Cielo",
+    "service": "Pub",
+    "location": {
+      "city": "Rovereto",
+      "country": "Italy",
+      "latlong": {
+        "lat": 45.8877342,
+        "lng": 11.044535200000041
+      }
+    }
   }
 ]
