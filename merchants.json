@@ -307,5 +307,12 @@
         "lng": 11.044535200000041
       }
     }
+  },
+  {
+    "name": "BikeBeltline",
+    "service": "Buy bike parts with Lightning Network payments",
+    "location": {
+      "url": "https://bikebeltline.com"
+    }
   }
 ]
