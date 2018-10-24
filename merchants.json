@@ -314,5 +314,19 @@
     "location": {
       "url": "https://bikebeltline.com"
     }
+  },
+  {
+    "name": "Bitcoin Hub",
+    "service": "Bitcoin T-shirts, Hardware, Gifts and merchandise",
+    "location": {
+      "url": "https://bitcoinhub.co.za/shop"
+    }
+  },
+  {
+    "name": "Doodah Shop South Africa",
+    "service": "Electronics, Hardware, Computers, Mining Gear",
+    "location": {
+      "url": "https://doodah.co.za/2152-cryptocurrency"
+    }
   }
 ]
