@@ -328,5 +328,32 @@
     "location": {
       "url": "https://doodah.co.za/2152-cryptocurrency"
     }
+  },
+  {
+    "name": "energKitchen",
+    "service": "Food and Drinks",
+    "location": {
+      "url": "https://shop.energy-kitchen.ch/#/shop",
+      "city": "Bern",
+      "country": "Switzerland",
+      "latlong": {
+        "lat": 46.9475478,
+        "lng": 7.4409507
+      }
+    }
+  },
+  {
+    "name": "CryptoCloaks",
+    "service": "3D printed wallet and node cases",
+    "location": {
+      "url": "https://thecryptocloak.com"
+    }
+  },
+  {
+    "name": "BitLaunch",
+    "service": "Pay for cloud providers using Lightning",
+    "location": {
+      "url": "https://bitlaunch.io"
+    }
   }
 ]
