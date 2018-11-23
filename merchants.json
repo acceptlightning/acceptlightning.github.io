@@ -355,5 +355,43 @@
     "location": {
       "url": "https://bitlaunch.io"
     }
+  },
+  {
+    "name": "Bitcoin Embassy New Hampshire",
+    "service": "Crypto education, demonstration, innovation and advocacy",
+    "location": {
+      "url": "https://bitcoinembassynh.org",
+      "city": "New Hampshire",
+      "country": "USA",
+      "latlong": {
+        "lat": 42.915385348347655,
+        "lng": -72.24744021892548
+      }
+    }
+  },
+  {
+    "name": "Route 101 Local Goods",
+    "service": "Locally made goods from New Hampshire and New England",
+    "location": {
+      "city": "New Hampshire",
+      "country": "USA",
+      "latlong": {
+        "lat": 42.91539713440342,
+        "lng": -72.24730610847473
+      }
+    }
+  },
+  {
+    "name": "Mind Games",
+    "service": "Board games, puzzles, role playing and miniature games",
+    "location": {
+      "url": "https://www.mindgamesmelbourne.com",
+      "city": "Melbourne",
+      "country": "Australia",
+      "latlong": {
+        "lat": -37.812173,
+        "lng": 144.96529
+      }
+    }
   }
 ]
