@@ -393,5 +393,52 @@
         "lng": 144.96529
       }
     }
+  },
+  {
+    "name": "Room 77",
+    "service": "Restaurant at the end of capitalism: warm beer, cold women and fast food made slow",
+    "location": {
+      "url": "http://www.room77.de",
+      "city": "Berlin",
+      "country": "Germany",
+      "latlong": {
+        "lat": 52.4930774,
+        "lng": 13.418007799999941
+      }
+    }
+  },
+  {
+    "name": "Tallycoin",
+    "service": "Fundraise with Bitcoin and Lightning",
+    "location": {
+      "url": "https://tallyco.in"
+    }
+  },
+  {
+    "name": "Quesos El Pilar",
+    "service": "Artesanal Manchego Cheese",
+    "location": {
+      "url": "https://quesoselpilar.com",
+      "city": "Almadén",
+      "country": "Spain",
+      "latlong": {
+        "lat": 38.77574999999999,
+        "lng": -4.830519999999979
+      }
+    }
+  },
+  {
+    "name": "HODLcat.com",
+    "service": "Merchandise, t-shirts and more",
+    "location": {
+      "url": "https://hodlcat.com"
+    }
+  },
+  {
+    "name": "Three Card Monte",
+    "service": "Simple Card Game, provably fair",
+    "location": {
+      "url": "https://kriptode.com/tcm/play.html"
+    }
   }
 ]
