@@ -440,5 +440,53 @@
     "location": {
       "url": "https://kriptode.com/tcm/play.html"
     }
+  },
+  {
+    "name": "Wild Lightning",
+    "service": "Best Lightning Slots",
+    "location": {
+      "url": "http://wildLN.com"
+    }
+  },
+  {
+    "name": "Lightning Auction",
+    "service": "Daily and weekly lowest unique bid auction for Bitcoins",
+    "location": {
+      "url": "https://lightningauction.net"
+    }
+  },
+  {
+    "name": "Lightning Conductor",
+    "service": "Tool to open incoming channels and convert lightning channel to bitcoins without closing the channel",
+    "location": {
+      "url": "https://lightningconductor.net"
+    }
+  },
+  {
+    "name": "CoinPlaza",
+    "service": "CoinPlaza is a non-custodial instant crypto currency exchange",
+    "location": {
+      "url": "https://www.coinplaza.it"
+    }
+  },
+  {
+    "name": "Lightning Slot Machine",
+    "service": "Play Slots With Lightning and Win the 200X Big Win payout!",
+    "location": {
+      "url": "https://www.lightningslotmachine.com"
+    }
+  },
+  {
+    "name": "Deli Volv",
+    "service": "Mobile delicatessen, catering and window service",
+    "location": {
+      "url": "https://delivolv.com/",
+      "city": "Weaverville",
+      "country": "USA",
+      "latlong": {
+        "lat": 35.705887,
+        "lng": -82.54022750000001
+      }
+    }
   }
 ]
