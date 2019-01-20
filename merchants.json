@@ -488,5 +488,52 @@
         "lng": -82.54022750000001
       }
     }
+  },
+  {
+    "name": "Kriptode.com",
+    "service": "Lightning games & services. Card game, CPU mining with instant payout, scratch off lottery, duck hunt game",
+    "location": {
+      "url": "https://kriptode.com"
+    }
+  },
+  {
+    "name": "CryptoHO.ST",
+    "service": "VPS Hosting",
+    "location": {
+      "url": "https://cryptoho.st"
+    }
+  },
+  {
+    "name": "bitX.press",
+    "service": "LN based reddit style no free trolling - author paid - plus fun bowling for bits game",
+    "location": {
+      "url": "https://bitx.press"
+    }
+  },
+  {
+    "name": "ParaEasy",
+    "service": "paragliding tandem flights",
+    "location": {
+      "url": "http://paraeasy.ch",
+      "city": "Ingenbohl",
+      "country": "Switzerland",
+      "latlong": {
+        "lat": 46.9952268,
+        "lng": 8.607800999999995
+      }
+    }
+  },
+  {
+    "name": "R.L.Fellner",
+    "service": "Counselling, Psychotherapy, Sex Therapy, Couples Therapy",
+    "location": {
+      "url": "https://www.counseling-office.com",
+      "city": "Pattaya",
+      "country": "Thailand",
+      "latlong": {
+        "lat": 12.897489183755892,
+        "lng": 100.90667724609375
+      }
+    }
   }
 ]
