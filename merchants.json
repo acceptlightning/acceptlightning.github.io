@@ -535,5 +535,26 @@
         "lng": 100.90667724609375
       }
     }
+  },
+  {
+    "name": "Lightning Energy Shop",
+    "service": "Buy Coffee, Jerky, Nuts, Energy Drinks",
+    "location": {
+      "url": "https://lightningenergyshop.com"
+    }
+  },
+  {
+    "name": "Lightning Singles",
+    "service": "Is your node lonely? Find channel partners and build liquidity",
+    "location": {
+      "url": "https://singles.shock.network"
+    }
+  },
+  {
+    "name": "LNWALLET.IO",
+    "service": "Lightning custodial wallet. Send, receive and store Lightning Network Bitcoin online",
+    "location": {
+      "url": "https://lnwallet.io/"
+    }
   }
 ]
