@@ -435,13 +435,6 @@
     }
   },
   {
-    "name": "Three Card Monte",
-    "service": "Simple Card Game, provably fair",
-    "location": {
-      "url": "https://kriptode.com/tcm/play.html"
-    }
-  },
-  {
     "name": "Wild Lightning",
     "service": "Best Lightning Slots",
     "location": {
@@ -554,7 +547,68 @@
     "name": "LNWALLET.IO",
     "service": "Lightning custodial wallet. Send, receive and store Lightning Network Bitcoin online",
     "location": {
-      "url": "https://lnwallet.io/"
+      "url": "https://lnwallet.io"
+    }
+  },
+  {
+    "name": "Lightning Liquid",
+    "service": "Lightning Enabled E-Liquid/Vape Store",
+    "location": {
+      "url": "https://lightning-liquid.com"
+    }
+  },
+  {
+    "name": "BitStock",
+    "service": "Photos for satoshis",
+    "location": {
+      "url": "https://www.tomjodh.nl"
+    }
+  },
+  {
+    "name": "Modular Synth Fun",
+    "service": "Selling audio sample packs and analog synth hardware",
+    "location": {
+      "url": "https://modularsynth.fun"
+    }
+  },
+  {
+    "name": "SKOBET",
+    "service": "Bitcoin Lightning Gambling",
+    "location": {
+      "url": "https://www.skobet.com"
+    }
+  },
+  {
+    "name": "Lightning Hood",
+    "service": "Education and Store",
+    "location": {
+      "url": "https://lightninghood.com"
+    }
+  },
+  {
+    "name": "OpenArt Studio Jacek Kolodziejczak",
+    "service": "Web Designer, Web Developer, IT",
+    "location": {
+      "url": "https://openartstudio.pl",
+      "city": "Gniezno",
+      "country": "Poland",
+      "latlong": {
+        "lat": 52.539907,
+        "lng": 17.573176999999987
+      }
+    }
+  },
+  {
+    "name": "Vape Crypto",
+    "service": "Vape Site. Get 10% off all orders paid for with Bitcoin",
+    "location": {
+      "url": "https://vapecrypto.com",
+      "city": "Branchburg",
+      "country": "USA",
+      "latlong": {
+        "lat": 40.58681139999999,
+        "lng": -74.69858909999999
+      }
     }
   }
 ]
