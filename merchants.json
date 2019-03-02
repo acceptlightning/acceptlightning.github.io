@@ -610,5 +610,47 @@
         "lng": -74.69858909999999
       }
     }
+  },
+  {
+    "name": "lngames.net",
+    "service": "Lightning Network Games: Wheel of Fortune, Mini casino Roulette, flappy lightning,..",
+    "location": {
+      "url": "https://lngames.net"
+    }
+  },
+  {
+    "name": "KaffeBox",
+    "service": "Scandinavian roasted specialty coffee shipping worldwide",
+    "location": {
+      "url": "https://www.kaffebox.no"
+    }
+  },
+  {
+    "name": "M0IFAY MUSIC Webstore",
+    "service": "A Growing list of Musical works by M0IFAY",
+    "location": {
+      "url": "https://moifay.online"
+    }
+  },
+  {
+    "name": "Internet Super Store",
+    "service": "Retail Store",
+    "location": {
+      "url": "https://internetsuper.store"
+    }
+  },
+  {
+    "name": "Crypto Etched",
+    "service": "Crypto coasters etched on wood",
+    "location": {
+      "url": "https://etched.12words.capital"
+    }
+  },
+  {
+    "name": "Bitcoin Tunnels",
+    "service": "Bitcoin-Only Online Store, selling Bitcoin relevant merchandise",
+    "location": {
+      "url": "https://www.bitcointunnels.com"
+    }
   }
 ]
