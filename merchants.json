@@ -652,5 +652,33 @@
     "location": {
       "url": "https://www.bitcointunnels.com"
     }
+  },
+  {
+    "name": "Denise Magdale - Drawings and Paintings",
+    "service": "Original artwork",
+    "location": {
+      "url": "https://www.denisemagdale.com/shop"
+    }
+  },
+  {
+    "name": "LIGHTNING-CASINO.COM",
+    "service": "gambling slot machine",
+    "location": {
+      "url": "https://lightning-casino.com"
+    }
+  },
+  {
+    "name": "GroupSteam",
+    "service": "Shop PC games with bitcoin lightning at prices cheaper than other major game stores(Steam, Origin, Uplay)",
+    "location": {
+      "url": "https://www.groupsteam.com"
+    }
+  },
+  {
+    "name": "Card Wallet",
+    "service": "Selling high secure offline BTC storage wallets",
+    "location": {
+      "url": "https://www.cardwallet.com"
+    }
   }
 ]
