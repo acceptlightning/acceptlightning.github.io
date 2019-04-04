@@ -680,5 +680,45 @@
     "location": {
       "url": "https://www.cardwallet.com"
     }
+  },
+  {
+    "name": "HoizPi",
+    "service": "Smart IT Systems",
+    "location": {
+      "city": "Eferding",
+      "country": "Austria",
+      "latlong": {
+        "lat": 48.310022763659816,
+        "lng": 14.023081954685154
+      }
+    }
+  },
+  {
+    "name": "Sweet Sugarleaf Artwork",
+    "service": "Seriously cute Medical Marijuana Artwork",
+    "location": {
+      "url": "https://trustedcoins.co.uk/sweetsugarleaf"
+    }
+  },
+  {
+    "name": "Lightning Spin",
+    "service": "The original lightning roulette - reckless since 2018",
+    "location": {
+      "url": "https://lightningspin.com"
+    }
+  },
+  {
+    "name": "YYBazaar",
+    "service": "Fashion",
+    "location": {
+      "url": "https://yybazaar.com"
+    }
+  },
+  {
+    "name": "Bitcoin Lightning Faucet",
+    "service": "Faucet",
+    "location": {
+      "url": "https://light.yuyaogawa.com/faucet"
+    }
   }
 ]
