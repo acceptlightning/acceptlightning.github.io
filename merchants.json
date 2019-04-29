@@ -720,5 +720,12 @@
     "location": {
       "url": "https://light.yuyaogawa.com/faucet"
     }
+  },
+  {
+    "name": "Crypto Coffee",
+    "service": "We sell coffee for the crypto community!",
+    "location": {
+      "url": "https://crypto-coffee.org"
+    }
   }
 ]
