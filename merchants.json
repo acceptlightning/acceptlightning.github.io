@@ -727,5 +727,61 @@
     "location": {
       "url": "https://crypto-coffee.org"
     }
+  },
+  {
+    "name": "Digital Marketplace",
+    "service": "HQ Royalty Free Stock Images from Shutterstock",
+    "location": {
+      "url": "https://store.billcrypto.co.in"
+    }
+  },
+  {
+    "name": "AutoSky North",
+    "service": "Aerial photographs",
+    "location": {
+      "url": "https://autoskynorth.co.uk/shop"
+    }
+  },
+  {
+    "name": "Funraiden",
+    "service": "Hand-curated shop with cool merch and collectibles",
+    "location": {
+      "url": "https://funraiden.com"
+    }
+  },
+  {
+    "name": "slamtrade.com",
+    "service": "Crypto Trading Signals",
+    "location": {
+      "url": "https://crypto.slamtrade.com"
+    }
+  },
+  {
+    "name": "slamtrade.com",
+    "service": "Crypto Wall of Fame",
+    "location": {
+      "url": "https://satoshis.pictures"
+    }
+  },
+  {
+    "name": "THCServers.com",
+    "service": "Web Hosting",
+    "location": {
+      "url": "https://www.thcservers.com"
+    }
+  },
+  {
+    "name": "BitKiks",
+    "service": "Bitcoin Merchandise footwear and sneakers",
+    "location": {
+      "url": "https://www.bitkiks.com"
+    }
+  },
+  {
+    "name": "Break Store",
+    "service": "Computers, electronics, and high-tech products",
+    "location": {
+      "url": "https://breakstore.fr"
+    }
   }
 ]

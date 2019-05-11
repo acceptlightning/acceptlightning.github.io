@@ -1,1 +1,0 @@
-"use strict";window.addEventListener("load",function(){var o=document.cookie;""===o?(console.log("create"),document.cookie="bla"):console.log("cookie",o)});
