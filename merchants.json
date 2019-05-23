@@ -783,5 +783,26 @@
     "location": {
       "url": "https://breakstore.fr"
     }
+  },
+  {
+    "name": "CheapBitcoinBuys",
+    "service": "Virtual quiz",
+    "location": {
+      "url": "http://www.cheapbitcoinbuys.com"
+    }
+  },
+  {
+    "name": "CheapBitcoinBuys",
+    "service": "Virtual quiz",
+    "location": {
+      "url": "http://www.cheapbitcoinbuys.com"
+    }
+  },
+  {
+    "name": "ShopinBit.de",
+    "service": "Electronics (PC Hardware, Notebooks, Smartphones etc.) and Cryptowear",
+    "location": {
+      "url": "https://shopinbit.de"
+    }
   }
 ]
