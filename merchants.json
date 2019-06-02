@@ -804,5 +804,12 @@
     "location": {
       "url": "https://shopinbit.de"
     }
+  },
+  {
+    "name": "slamtrade.com",
+    "service": "Crypto for All - Discover Satoshis Prices in 100+ Currencies",
+    "location": {
+      "url": "https://cryptoally.io"
+    }
   }
 ]
