@@ -811,5 +811,19 @@
     "location": {
       "url": "https://cryptoally.io"
     }
+  },
+  {
+    "name": "Etleneum",
+    "service": "The centralized smart contract platform",
+    "location": {
+      "url": "https://etleneum.com"
+    }
+  },
+  {
+    "name": "Kriptode",
+    "service": "Sats 4 Likes",
+    "location": {
+      "url": "https://kriptode.com/satsforlikes/index.html"
+    }
   }
 ]
