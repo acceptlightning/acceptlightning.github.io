@@ -825,5 +825,12 @@
     "location": {
       "url": "https://kriptode.com/satsforlikes/index.html"
     }
+  },
+  {
+    "name": "sendbitcoin.lol",
+    "service": "Bitcoin Sticker Shop",
+    "location": {
+      "url": "https://sendbitcoin.lol"
+    }
   }
 ]
