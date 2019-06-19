@@ -832,5 +832,25 @@
     "location": {
       "url": "https://sendbitcoin.lol"
     }
+  },
+  {
+    "name": "Hipptee",
+    "service": "Clothing",
+    "location": {
+      "url": "https://hipptee.com"
+    }
+  },
+  {
+    "name": "Pita Barcelona",
+    "service": "Handmade Mechanical Watches with Mediterranean character",
+    "location": {
+      "url": "https://www.pita.es",
+      "city": "Barcelona",
+      "country": "Spain",
+      "latlong": {
+        "lat": 41.4165242,
+        "lng": 2.186609800000042
+      }
+    }
   }
 ]
