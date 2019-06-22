@@ -852,5 +852,12 @@
         "lng": 2.186609800000042
       }
     }
+  },
+  {
+    "name": "Bitcoin Gift Wallet",
+    "service": "Cold Storage Gift Cards for Any Wallet",
+    "location": {
+      "url": "https://coincardgift.com"
+    }
   }
 ]
