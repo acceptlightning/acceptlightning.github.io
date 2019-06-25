@@ -859,5 +859,12 @@
     "location": {
       "url": "https://coincardgift.com"
     }
+  },
+  {
+    "name": "LightningDuel",
+    "service": "Provably fair game, Bandit vs Sheriff",
+    "location": {
+      "url": "https://www.lightningduel.com/"
+    }
   }
 ]
