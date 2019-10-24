@@ -866,5 +866,125 @@
     "location": {
       "url": "https://www.lightningduel.com/"
     }
+  },
+  {
+    "name": "Samurai Oyster",
+    "service": "Wholesale Oysters (Japan Only)",
+    "location": {
+      "url": "samuraioyster.com"
+    }
+  },
+  {
+    "name": "Remote Admin",
+    "service": "VPS HOSTING",
+    "location": {
+      "url": "https://ln-vps.remoteadmin.store"
+    }
+  },
+  {
+    "name": "CryptoRefills.com",
+    "service": "Gift Cards and Mobile Top Ups",
+    "location": {
+      "url": "https://www.cryptorefills.com"
+    }
+  },
+  {
+    "name": "Bitcart",
+    "service": "Gift Card Exchange",
+    "location": {
+      "url": "www.bitcart.io"
+    }
+  },
+  {
+    "name": "Cardia Cafe",
+    "service": "Coffee shop",
+    "location": {
+      "url": "https://www.facebook.com/cardia.cafe",
+      "city": "Athens",
+      "country": "Greece",
+      "latlong": {
+        "lat": 37.97696419999999,
+        "lng": 23.724348100000043
+      }
+    }
+  },
+  {
+    "name": "Dastart",
+    "service": "Coffee shop",
+    "location": {
+      "url": "http://www.dastart.com",
+      "city": "Thessaloniki",
+      "country": "Greece",
+      "latlong": {
+        "lat": 40.637449,
+        "lng": 22.937487000000033
+      }
+    }
+  },
+  {
+    "name": "Station Retro",
+    "service": "Food, Games, Hobbies, Movies, Music",
+    "location": {
+      "url": "http://stationretro.com",
+      "city": "Huntsville",
+      "country": "USA",
+      "latlong": {
+        "lat": 34.74980676000679,
+        "lng": -86.63556575775146
+      }
+    }
+  },
+  {
+    "name": "Spendl",
+    "service": "Pay with Bitcoin Anywhere",
+    "location": {
+      "url": "https://getspendl.com"
+    }
+  },
+  {
+    "name": "Satsgo",
+    "service": "virtual products",
+    "location": {
+      "url": "https://satsgo.com"
+    }
+  },
+  {
+    "name": "Chipi Chipi Bombón",
+    "service": "Ice Cream Shop",
+    "location": {
+      "url": "http://www.chipichipibombon.com",
+      "city": "Berlin",
+      "country": "Germany",
+      "latlong": {
+        "lat": 52.5132387,
+        "lng": 13.452566700000034
+      }
+    }
+  },
+  {
+    "name": "Rummels Acoustics",
+    "service": "Acoustic Engineering",
+    "location": {
+      "url": "rummels-acoustics.com",
+      "city": "Berlin",
+      "country": "Germany",
+      "latlong": {
+        "lat": 52.52000659999999,
+        "lng": 13.404953999999975
+      }
+    }
+  },
+  {
+    "name": "Käserei Lustnau",
+    "service": "Quality  traditional  cheese",
+    "location": {
+      "url": "https://www.kaeserei-lustnau.ch",
+      "city": "Muotathal",
+      "country": "Switzerland",
+      "latlong": {
+        "lat": 46.9755502,
+        "lng": 8.741074900000058
+      }
+    }
   }
 ]
