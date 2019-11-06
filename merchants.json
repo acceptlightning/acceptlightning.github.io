@@ -986,5 +986,26 @@
         "lng": 8.741074900000058
       }
     }
+  },
+  {
+    "name": "Lightning Faucet",
+    "service": "faucet",
+    "location": {
+      "url": "https://lightning-faucet.com"
+    }
+  },
+  {
+    "name": "Bull Creek Honey",
+    "service": "Raw Honey Delivered",
+    "location": {
+      "url": "https://www.bullcreekhoney.com"
+    }
+  },
+  {
+    "name": "Evolution Host",
+    "service": "VPS Hosting",
+    "location": {
+      "url": "https://evolution-host.com/vps-hosting.php"
+    }
   }
 ]
