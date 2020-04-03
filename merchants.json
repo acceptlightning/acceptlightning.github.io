@@ -1007,5 +1007,60 @@
     "location": {
       "url": "https://evolution-host.com/vps-hosting.php"
     }
+  },
+  {
+    "name": "BitcoinBazis.hu",
+    "service": "Cryptomedia Site",
+    "location": {
+      "url": "https://www.bitcoinbazis.hu"
+    }
+  },
+  {
+    "name": "Graaf One",
+    "service": "Fiat to Lightning Exchange (Canada)",
+    "location": {
+      "url": "https://app.graaf.one"
+    }
+  },
+  {
+    "name": "Mikä-Art",
+    "service": "Finnish modern art",
+    "location": {
+      "url": "https://www.mikae-art.com/en",
+      "city": "Fiskars",
+      "country": "Finland",
+      "latlong": {
+        "lat": 60.1298133,
+        "lng": 23.5423589
+      }
+    }
+  },
+  {
+    "name": "Luckydice",
+    "service": "Luckydice is the most unique bitcoin dice game",
+    "location": {
+      "url": "https://luckydice.com"
+    }
+  },
+  {
+    "name": "CryptomaniacFr",
+    "service": "Crypto Custom Fan Art Cards",
+    "location": {
+      "url": "https://www.cryptomaniac.fr/"
+    }
+  },
+   {
+    "name": "LN Markets",
+    "service": "The first LN-powered Bitcoin derivatives trading platform",
+    "location": {
+      "url": "https://lnmarkets.com/"
+    }
+  },
+   {
+    "name": "MtSocks",
+    "service": "Online shop selling educational Bitcoin socks",
+    "location": {
+      "url": "MtSocks.com"
+    }
   }
 ]
