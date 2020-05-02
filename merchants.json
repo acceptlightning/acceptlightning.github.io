@@ -1062,5 +1062,26 @@
     "location": {
       "url": "MtSocks.com"
     }
+  },
+   {
+    "name": "SouthXchange",
+    "service": "Exchange",
+    "location": {
+      "url": "https://www.southxchange.com"
+    }
+  },
+   {
+    "name": "LNcase.com",
+    "service": "A case opening site on the Lightning Network",
+    "location": {
+      "url": "https://LNcase.com"
+    }
+  },
+   {
+    "name": "Lightning-Debrid",
+    "service": "Pay per use premium link generator for one-click-hoster",
+    "location": {
+      "url": "https://lightning-debrid.com"
+    }
   }
 ]
